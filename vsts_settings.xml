@@ -21,6 +21,15 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://exentric.visualstudio.com/DefaultCollection/_git/AndroidCamera" />
+          <option name="serverUri" value="https://exentric.visualstudio.com" />
+          <option name="userId" value="83e8bedf-fee9-4e4f-954c-86e7c7d113c3" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;bb68659e-ea46-4c51-8d58-3e2242e654a8&quot;,&quot;name&quot;:&quot;exentric&quot;,&quot;url&quot;:&quot;https://exentric.visualstudio.com/DefaultCollection/_apis/projectCollections/bb68659e-ea46-4c51-8d58-3e2242e654a8&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;a65b2088-325a-4887-9d3f-390fb6a134a3&quot;,&quot;name&quot;:&quot;AndroidCamera&quot;,&quot;revision&quot;:124,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://exentric.visualstudio.com/DefaultCollection/_apis/projects/a65b2088-325a-4887-9d3f-390fb6a134a3&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;18e27565-9030-4681-9094-28b9f96b894b&quot;,&quot;name&quot;:&quot;AndroidCamera&quot;,&quot;remoteUrl&quot;:&quot;https://exentric.visualstudio.com/_git/AndroidCamera&quot;,&quot;url&quot;:&quot;https://exentric.visualstudio.com/DefaultCollection/_apis/git/repositories/18e27565-9030-4681-9094-28b9f96b894b&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;a65b2088-325a-4887-9d3f-390fb6a134a3&quot;,&quot;name&quot;:&quot;AndroidCamera&quot;,&quot;revision&quot;:124,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://exentric.visualstudio.com/DefaultCollection/_apis/projects/a65b2088-325a-4887-9d3f-390fb6a134a3&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://exentric.visualstudio.com" />
           <option name="serverUri" value="https://exentric.visualstudio.com" />
           <option name="userId" value="83e8bedf-fee9-4e4f-954c-86e7c7d113c3" />
@@ -33,7 +42,7 @@
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//exentric.visualstudio.com/defaultcollection/androidcamera/_git/prescriptioncameraproject" />
+          <option name="value" value="//exentric.visualstudio.com/defaultcollection/_git/androidcamera" />
         </PropertyState>
       </array>
     </option>
